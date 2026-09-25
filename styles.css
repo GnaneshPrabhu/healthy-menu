@@ -160,7 +160,7 @@ button,input,textarea{font-family:inherit}
   .menu-section{padding:80px 0 90px}.section-heading{align-items:start;flex-direction:column;gap:14px}.section-heading h2,.promise-section h2{font-size:38px}.product-grid{grid-template-columns:1fr}.product-image{height:270px}
   .promise-section{padding:80px 0}.contact-section{padding:80px 0}.contact-card{padding:34px 26px}.contact-card h2{font-size:34px}
   .menu-cart-footer{margin-top:30px}.menu-cart-footer strong{font-size:12px}.menu-view-cart{padding:12px 14px}
-  .floating-nav{bottom:14px;max-width:calc(100% - 20px)}
+  .floating-nav{bottom:72px;max-width:calc(100% - 20px)}
   .floating-inner{padding:5px;gap:2px}
   .floating-inner a{padding:9px 10px;font-size:10px}
   .floating-inner button{width:36px;height:36px}
